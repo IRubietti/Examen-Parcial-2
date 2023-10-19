@@ -1,0 +1,17 @@
+temperatura_de_la_bebida=int(input("a cuantos grados C esta tu bebida: "))
+hora_del_dia=int(input("que hora es: "))
+tipo_de_bebida=int(input("elige entre cafe, te o chocolate caliente porfavor "))
+
+
+if= temperatura de la bebida = < 50 C:
+  print: "esperar a que se caliente la bebida"
+elif= temperatura_de_la_bebida = < 50 C and 70 C > :
+  print: "se puede servir de inmediato"
+else= temperatura_de_la_bebida = 70 C > :
+  print: "bebida muy caliente, debe esperar a que se enfríe"
+
+  
+  if= hora_del_dia = < 6 am and 11 am > :
+    print: "las bebidas calientes se sirven mas rapido"
+else= 
+print: "espera tu turno"
